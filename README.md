@@ -2,14 +2,7 @@
 Calculadora com HTML, CSS e JavaScript
 Uma calculadora simples desenvolvida com HTML, CSS e JavaScript puro, criada para praticar lógica de programação, manipulação do DOM e organização de projetos front-end.
 
-- Funcionalidades:
-➕ Adição
-➖ Subtração
-✖ Multiplicação
-➗ Divisão
-🧹 Botão para limpar a tela
-⌫ Apagar último número digitado
-📱 Interface simples e responsiva
+- Funcionalidades: adição, subtração, multiplicação, divisão, botão para limpar a tela, apagar último número digitado e interface simples e responsiva
 
 - Tecnologias utilizadas:
 HTML5 – estrutura da aplicação
